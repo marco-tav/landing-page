@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 .flex {
@@ -9,6 +10,7 @@
 
 body {
     flex-direction: column;
+    height: 100vh;
 }
 
 a {
@@ -23,8 +25,15 @@ li {
 ul {
     display: flex;
     margin-left: auto;
+    margin-right: 150px;
 }
 
 .nav {
     background-color: #1f2937;
+    height: 50px;
+    align-items: center;
+}
+
+.logo {
+    padding-left: 150px;
 }
