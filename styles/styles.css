@@ -14,7 +14,6 @@ body {
 }
 
 a {
-    color: white;
     text-decoration: none;
 }
 
@@ -35,5 +34,14 @@ ul {
 }
 
 .logo {
-    padding-left: 150px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 150px;
+    color: #f9faf8;
+}
+
+.nav-link {
+    font-size: 18px;
+    color: #e5e7eb;
+    padding: 0px 0px 0px 40px;
 }
