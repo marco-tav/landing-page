@@ -165,3 +165,32 @@ ul {
     margin-right: 50px;
 }
 
+.container-four {
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    background-color: #3882f6;
+    width: 1420px;
+    height: 150px;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.main {
+    font-size: 28px;
+    color: #f9faf8;
+}
+
+.sub {
+    color: #e5e7eb;
+}
+
+.sign-up-two {
+    border: 2px solid #f9faf8;
+    border-radius: 7px;
+}
