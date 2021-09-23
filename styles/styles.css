@@ -48,3 +48,27 @@ ul {
     color: #e5e7eb;
     padding: 0px 0px 0px 40px;
 }
+
+.container-one {
+    background-color: #1f2937;
+    height: 500px;
+}
+
+.main-title {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.subtext {
+    color: #e5e7eb;
+}
+
+.sign-up {
+    width: 100px;
+    height: 25px;
+    background-color: #3882f6;
+    color: white;
+    border: 0px;
+    border-radius: 2px;
+}
