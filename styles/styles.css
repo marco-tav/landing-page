@@ -194,3 +194,11 @@ ul {
     border: 2px solid #f9faf8;
     border-radius: 7px;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    height: 50px;
+    justify-content: center;
+    align-items: center;    
+}
