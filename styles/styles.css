@@ -27,7 +27,7 @@ li {
 ul {
     display: flex;
     margin-left: auto;
-    margin-right: 150px;
+    margin-right: 250px;
 }
 
 .nav {
@@ -39,7 +39,7 @@ ul {
 .logo {
     font-size: 24px;
     font-weight: bold;
-    margin-left: 150px;
+    margin-left: 250px;
     color: #f9faf8;
 }
 
@@ -51,7 +51,14 @@ ul {
 
 .container-one {
     background-color: #1f2937;
-    height: 500px;
+    height: 400px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title-card {
+    margin-left: 250px;
+    width: 500px;
 }
 
 .main-title {
@@ -62,13 +69,29 @@ ul {
 
 .subtext {
     color: #e5e7eb;
+    margin-top: 10px;
 }
 
 .sign-up {
     width: 100px;
-    height: 25px;
+    height: 28px;
     background-color: #3882f6;
     color: white;
     border: 0px;
     border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.image {
+    width: 500px;
+    background-color: #6d747d;
+    color: #e5e7eb;
+    margin-right: 250px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
