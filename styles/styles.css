@@ -95,3 +95,12 @@ ul {
     justify-content: center;
     align-items: center;
 }
+
+.container-two {
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-container {
+    display: flex;
+}
