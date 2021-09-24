@@ -152,6 +152,11 @@ ul {
     width: 180px;
     height: 180px;
 }
+
+#commuter {
+    width: 170px;
+}
+
 .card-text {
     color: #1f2937;
     padding-top: 5px;
