@@ -96,14 +96,20 @@ ul {
 
 .image {
     width: 500px;
-    background-color: #6d747d;
+    height: 250px;
+    background-color: #1f2937;
     color: #e5e7eb;
     margin-right: 250px;
-    height: 250px;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 7px  ;
+    border-radius: 7px;
+}
+
+.main-image {
+    margin-right: 50px;
+    width: 550px;
+    border-radius: 7px;
 }
 
 .container-two {
